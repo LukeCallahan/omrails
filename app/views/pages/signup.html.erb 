@@ -1,6 +1,3 @@
-<%= link_to "Sign up motha-ffer", "#" %>
-
-
 <h1>
 About
 </h1>	
@@ -14,5 +11,3 @@ About
 <p>	
 This is a project to encourage the spread of knowledge around natural plant dyes onto fabric. You're welcome.
 </p>
-
-
